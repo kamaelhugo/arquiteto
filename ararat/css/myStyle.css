@@ -1,0 +1,32 @@
+b {
+    color: rgb(110, 106, 106) !important;
+}
+
+.home-sobre-heliomar p {
+    font-size: 17px !important;
+    text-align: justify !important;
+}
+
+.mission-area {
+    margin-top: 9vw !important;
+}
+
+.mission-area p {
+    margin-top: 2vw;
+}
+
+.home-services img {
+    border-radius: 200% !important;
+}
+
+.home-services {
+    margin-bottom: 4vw;
+}
+
+.dream_service {
+    margin-bottom: 4vw !important;
+}
+
+.home-background {
+    background-image: url(img/1.png) !important;
+}
