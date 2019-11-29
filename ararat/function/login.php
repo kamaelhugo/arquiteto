@@ -12,7 +12,7 @@
 		$_SESSION['login'] = $user;
 		$_SESSION['senha'] = $senha;
 		echo $_SESSION['senha'];
-		echo "logouu";
+		echo "logouus";
 	}else{
 		echo "nao encontrou";
 	}
